@@ -1,2 +1,1 @@
-# garage-sale
-Sell Used Products
+# Sell My Stuff
